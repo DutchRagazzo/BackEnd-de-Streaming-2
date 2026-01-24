@@ -1,4 +1,4 @@
-<h1>BackEnd de Streaming em Java</h1>
+<h1>BackEnd de Streaming em Java (só que pra áudioksksks)</h1>
 <h2>Por que criar isso?🤔</h2>
 <p>Este projeto foi criado para praticar conceitos de POO em aplicações reais do dia a dia</p>
 <h2>Tecnologia utilizada: Java☕</h2>
