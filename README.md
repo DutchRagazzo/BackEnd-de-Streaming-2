@@ -13,4 +13,5 @@
 </ul>
 <h2>Updates próximos!😎</h2>
 <p>Mais funções e métodos para melhoria.</p>
-<p>Ah e um método melhor para classificar cada tipo de áudio.</p>
+<p>Método melhor para classificar cada tipo de áudio.</p>
+<p>Interações melhores com métricas de curtida e reprodução.</p>
