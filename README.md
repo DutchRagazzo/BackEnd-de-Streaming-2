@@ -10,6 +10,7 @@
   <li>4. Classes, subclasses e interfaces.</li>
   <li>5. Polimorfismo e herança.</li>
   <li>6. Funções, métodos e objetos.</li>
+  <li>7. Abstração.</li>
 </ul>
 <h2>Updates próximos!😎</h2>
 <p>Mais funções e métodos para melhoria.</p>
